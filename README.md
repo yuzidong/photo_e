@@ -1,3 +1,4 @@
+[【上一组:室外婚纱】](http://yuzidong.github.io/photo_d) [【返回列表】](http://yuzidong.github.io/photolist)  [【下一组:室外民国风】](http://yuzidong.github.io/photo_f)  
 ![e1](https://github.com/yuzidong/wedding/blob/master/images/e1.jpg?raw=true)  
 ![e2](https://github.com/yuzidong/wedding/blob/master/images/e2.jpg?raw=true)  
 ![e3](https://github.com/yuzidong/wedding/blob/master/images/e3.jpg?raw=true)  
@@ -7,4 +8,6 @@
 ![e7](https://github.com/yuzidong/wedding/blob/master/images/e7.jpg?raw=true)  
 ![e8](https://github.com/yuzidong/wedding/blob/master/images/e8.jpg?raw=true)  
 ![e9](https://github.com/yuzidong/wedding/blob/master/images/e9.jpg?raw=true)  
-![e10](https://github.com/yuzidong/wedding/blob/master/images/e10.jpg?raw=true)
+![e10](https://github.com/yuzidong/wedding/blob/master/images/e10.jpg?raw=true)  
+
+[【上一组:室外婚纱】](http://yuzidong.github.io/photo_d) [【返回列表】](http://yuzidong.github.io/photolist)  [【下一组:室外民国风】](http://yuzidong.github.io/photo_f)
