@@ -1,1 +1,10 @@
-# photo_e
+![e1](https://github.com/yuzidong/wedding/blob/master/images/e1.jpg?raw=true)  
+![e2](https://github.com/yuzidong/wedding/blob/master/images/e2.jpg?raw=true)  
+![e3](https://github.com/yuzidong/wedding/blob/master/images/e3.jpg?raw=true)  
+![e4](https://github.com/yuzidong/wedding/blob/master/images/e4.jpg?raw=true)  
+![e5](https://github.com/yuzidong/wedding/blob/master/images/e5.jpg?raw=true)  
+![e6](https://github.com/yuzidong/wedding/blob/master/images/e6.jpg?raw=true)  
+![e7](https://github.com/yuzidong/wedding/blob/master/images/e7.jpg?raw=true)  
+![e8](https://github.com/yuzidong/wedding/blob/master/images/e8.jpg?raw=true)  
+![e9](https://github.com/yuzidong/wedding/blob/master/images/e9.jpg?raw=true)  
+![e10](https://github.com/yuzidong/wedding/blob/master/images/e10.jpg?raw=true)
